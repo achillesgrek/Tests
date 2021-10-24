@@ -5,10 +5,10 @@ ________________________
 
 Prerequisition
 
-Python Download: https://www.python.org/downloads
-Pycharm Download: https://www.jetbrains.com/pycharm/download/#section=windows - or other IDE for Python
-Selenium Documentation: https://selenium-python.readthedocs.io/ 
-Webdriver for Chrome: https://chromedriver.storage.googleapis.com/index.html
+Python Download: https://www.python.org/downloads  
+Pycharm Download: https://www.jetbrains.com/pycharm/download/#section=windows - or other IDE for Python  
+Selenium Documentation: https://selenium-python.readthedocs.io/   
+Webdriver for Chrome: https://chromedriver.storage.googleapis.com/index.html  
 
 _________________________
 
