@@ -12,7 +12,7 @@ Webdriver for Chrome: https://chromedriver.storage.googleapis.com/index.html
 
 _________________________
 
-Copy repository or download files manually. 
-Open project in PyCharm. 
-Open "Terminal" and type "python -m unittest then push "Enter"
-Tests should run automaticly. 
+Copy repository or download files manually.   
+Open project in PyCharm.   
+Open "Terminal" and type "python -m unittest then push "Enter"  
+Tests should run automaticly.   
